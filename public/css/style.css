@@ -1,0 +1,55 @@
+.bg {
+    background-color: #d6d6d681;
+}
+
+.bg-login{
+    background-color: #ffffff;
+    box-shadow:-3px 2px 33px 1px #00000025;
+}
+.color-card-header {
+    background-color: rgb(147, 175, 212);
+}
+
+.navbar-bg{
+    color: #ffffff!important;
+    background: #008cff!important;
+    box-shadow :   0px -45px 50px 50px   rgba(0,0,0,0.41)  !important;
+}
+.logo{
+    width: 40px;
+    text-transform: capitalize;
+    border-radius: 100%;
+}
+.text-logo{
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: 50px;
+}
+
+.contenedor{
+    width: 90%;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+.thead-colombeia{
+    background-color: rgb(74, 125, 202)!important;
+    color: white;
+    
+}
+
+.thead-colombeia:hover{
+    background-color: rgb(67, 110, 173)!important;
+    
+}
+
+
+
+.transition{
+    transition: all 0.2s !important;
+}
+
+.role{
+    margin: 2rem;
+    text-align: justify;
+}
